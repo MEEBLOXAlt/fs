@@ -1,2 +1,2 @@
-1st commit: Create mp3 folder
-2nd commit: Upload "i-wanna-ride.mp3" for an edit sound on TikTok.
+1st commit: Create mp3 folder (https://fs.meeblox.xyz/mp3/)
+2nd commit: Upload "i-wanna-ride.mp3" for an edit sound on TikTok. (https://fs.meeblox.xyz/mp3/i-wanna-ride.mp3)
